@@ -1,0 +1,13 @@
+column;type;sname;lname
+1;id;count;Count
+2;id;dept_id;Team_Id
+3;id;team;Team
+4;var;load;Workload
+5;var;conflict;Task conflict
+6;var;trust;Organizational trust
+7;var;lead;Satisfaction with leadership
+8;var;auto;Job autonomy
+9;var;commit;Commitment
+10;var;quit;Intention to quit
+11;var;wb;Well-being
+12;var;sat;Job satisfaction
